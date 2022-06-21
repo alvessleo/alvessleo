@@ -26,6 +26,6 @@
 ## 🔷 &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=alvessleo&show_icons=true&theme=github_dark" alt="alvessleo's stats"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=alvessleo&show_icons=true&theme=github_dark" alt="alvessleo's stats"/>
 <!--<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvessleo&layout=compact&theme=github_dark" alt="alvessleo's most languages"/>-->
 </p>
