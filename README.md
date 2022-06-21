@@ -1,5 +1,5 @@
 <img align="right" height="580em" src="https://raw.githubusercontent.com/gist/alvessleo/1a9ab3974380fc6720a3e7812b3c1cf3/raw/b160e768d54d8d4f1f4ccc34f1cb1596ad2c4943/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="28px" height="28px">, I'm Leonardo Alves</h1>
+<h1 align="left">Hi <img src="https://github.com/alvessleo/alvessleo/blob/main/hi-white.gif" width="29px" height="29px">, I'm Leonardo Alves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvessleo&color=blue" alt="Profile views" /> </p>
 
 💠 Currently studying **HTML, CSS and JavaScript**.
