@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/alvessleo/alvessleo/blob/main/alves-logo.png" width="300px">
+  <img src="https://github.com/alvessleo/alvessleo/blob/main/alves-logo.png" width="280px">
 </div>
 
 -----
