@@ -10,7 +10,7 @@
 
 Atualmente sou um estudante, cursando Engenharia de Software na [Pontifícia Universidade Católica do Paraná](https://www.pucpr.br/) (PUCPR). Ainda no 4º periodo, mas já com a certeza da área que desejo me especializar.
 
-Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e minhas caracteristicas marcantes é detalhista e perfeccionista. Desde menor tenho contato com design, sempre procurando realizar uma interface clean e minimalista. 
+Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e minhas caracteristicas marcantes são ser detalhista e perfeccionista. Desde menor tenho contato com design, sempre procurando realizar uma interface clean e minimalista. 
 
 <h4 align="center">
   A musica é meu maior aliado quando programo.
