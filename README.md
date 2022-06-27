@@ -21,10 +21,10 @@ Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e min
 </div>
 
 <div align="center">
-  <div>
+  <a href="https://open.spotify.com/album/44qlncyg664uTj4nrjRwgW">
     <img width=80px height="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
     <img src="https://github.com/alvessleo/alvessleo/blob/main/img/spotify-favorite-track.svg">
-  </div>
+  </a>
 </div>
 
 <br>
