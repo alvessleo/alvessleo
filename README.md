@@ -12,9 +12,13 @@ Atualmente sou um estudante, cursando Engenharia de Software na [Pontifícia Uni
 
 Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e minhas caracteristicas marcantes é detalhista e perfeccionista. Desde menor tenho contato com design, sempre procurando realizar uma interface clean e minimalista. 
 
-- Procurando experiência.
-- Estudando React.
-- Trabalhando em um [portifólio](https://i.gifer.com/P4id.mp4) próprio.
+<h4 align="center">
+  A musica é meu maior aliado quando programo.
+</h4>
+
+<div align="center">
+  <i>Favorita do momento:</i>
+</div>
 
 <div align="center">
   <div>
@@ -23,8 +27,7 @@ Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e min
   </div>
 </div>
 
-
-
+<br>
 
 <p align="center">
   <i>Entre em contato e vamos trabalhar juntos!</i>
