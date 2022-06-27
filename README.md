@@ -8,9 +8,9 @@
   <p><strong>WEB DEVELOPER</strong></p>
 </div>
 
-<div align="center">
-    <div align="left">
-      <img src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
+<div align="center" display="flex">
+    <div>
+      <img width="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
     </div>
     <div>
       <img src="img/spotify-favorite-music.svg">
