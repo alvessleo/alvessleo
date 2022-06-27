@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/alvessleo/alvessleo/blob/main/alves-logo.png" width="280px">
+  <img src="https://github.com/alvessleo/alvessleo/blob/main/img/alves-logo.png" width="280px">
 </div>
 
 -----
@@ -17,22 +17,19 @@
 
 <p align="center">
   <a href= "https://github.com/alvessleo">
-    <img src="img/code.png"/>
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/leonardo-fernandes-alves-1391b2213/">
-    <img src="img/linkedin.png"/>
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/linkedin.png"/>
   </a>
   <a href="https://www.instagram.com/_alvessleo/">
-    <img src="img/instagram.png"/>
-  </a>
-  <a href= "https://twitter.com/_alvessleo">
-    <img src="img/twitter.png"/>
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/instagram.png"/>
   </a>
   <a href= "https://www.youtube.com/channel/UCQNGABEdxwX6OCpTyd2vzOw">
-    <img src="img/youtube.png"/>
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/youtube.png"/>
   </a>
   <a href="https://github.com/alvessleo?tab=repositories">
-    <img src="img/source-code.png"/>
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/source-code.png"/>
   </a>
 
 </p>
