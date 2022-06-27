@@ -8,14 +8,14 @@
   <p><strong>WEB DEVELOPER</strong></p>
 </div>
 
-<div align="center" display="flex">
-    <div>
-      <img width="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
-    </div>
-    <div>
-      <img src="img/spotify-favorite-music.svg">
-    </div>
+<div align="center">
+  <div>
+    <img width=80px height="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
+    <img src="img/spotify-favorite-music.svg">
+  </div>
 </div>
+
+
 
 
 <p align="center">
@@ -39,5 +39,3 @@
   </a>
 
 </p>
-
-
