@@ -11,7 +11,7 @@
 <div align="center">
   <div>
     <img width=80px height="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
-    <img src="img/spotify-favorite-music.svg">
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/spotify-favorite-track.svg">
   </div>
 </div>
 
