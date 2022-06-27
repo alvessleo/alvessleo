@@ -8,29 +8,31 @@
   <p><strong>WEB DEVELOPER</strong></p>
 </div>
 
-[![Spotify](https://spotify-now-playing-alvessleo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+<div align="center">
+  <img src="img/spotify-favorite-music.svg">
+</div>
 
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>Entre em contato e vamos trabalhar juntos!</i>
 
 <p align="center">
-  <a href= "https://github.com/tallguyjenks/">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/code.png"/>
+  <a href= "https://github.com/alvessleo">
+    <img src="img/code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/linkedin.png"/>
+  <a href= "https://www.linkedin.com/in/leonardo-fernandes-alves-1391b2213/">
+    <img src="img/linkedin.png"/>
   </a>
-  <a href="https://www.buymeacoffee.com/tallguyjenks">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/instagram.png"/>
+  <a href="https://www.instagram.com/_alvessleo/">
+    <img src="img/instagram.png"/>
   </a>
-  <a href= "https://twitter.com/tallguyjenks">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/twitter.png"/>
+  <a href= "https://twitter.com/_alvessleo">
+    <img src="img/twitter.png"/>
   </a>
-  <a href= "https://www.bryanjenks.dev">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/youtube.png"/>
+  <a href= "https://www.youtube.com/channel/UCQNGABEdxwX6OCpTyd2vzOw">
+    <img src="img/youtube.png"/>
   </a>
-  <a href="https://www.youtube.com/c/BryanJenksTech?sub_confirmation=1">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/source-code.png"/>
+  <a href="https://github.com/alvessleo?tab=repositories">
+    <img src="img/source-code.png"/>
   </a>
 
 </p>
