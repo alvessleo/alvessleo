@@ -5,7 +5,7 @@
 -----
 
 <div align="center">
-  <p><strong>WEB DEVELOPER</strong></p>
+  <h3><strong>WEB DEVELOPER</strong></h3>
 </div>
 
 <div align="center">
