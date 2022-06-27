@@ -8,6 +8,8 @@
   <p><strong>WEB DEVELOPER</strong></p>
 </div>
 
+[![Spotify](https://spotify-now-playing-alvessleo.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
