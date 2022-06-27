@@ -9,8 +9,14 @@
 </div>
 
 <div align="center">
-  <img src="img/spotify-favorite-music.svg">
+    <div align="left">
+      <img src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
+    </div>
+    <div>
+      <img src="img/spotify-favorite-music.svg">
+    </div>
 </div>
+
 
 <p align="center">
   <i>Entre em contato e vamos trabalhar juntos!</i>
