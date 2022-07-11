@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/alvessleo/alvessleo/blob/main/img/alves-logo.png" width="280px">
+  <img src="https://github.com/alvessleo/alvessleo/blob/main/img/name-logo2.png" width="280px">
 </div>
 
 -----
@@ -23,7 +23,7 @@ Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e min
 <div align="center">
   <a href="https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ">
     <img width=80px height="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
-    <img src="">
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/spotify-favorite-track.svg">
   </a>
 </div>
 
