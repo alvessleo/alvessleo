@@ -95,7 +95,7 @@
         margin: -14px 0 0 0px;
       }
       .bar {
-        background: #006eff;
+        background: #1ed760;
         bottom: 1px;
         height: 3px;
         position: absolute;
@@ -116,11 +116,11 @@
     </style>
     <div xmlns="http://www.w3.org/1999/xhtml" class="container">
         <div class="text-container">
-          <div class="artist">Filipe Ret</div>
+          <div class="artist">Blxst</div>
           <div class="song-container">
-            <div class="song scrolling">Trem Bala (feat. Dallass)</div>
-            <div class="song scrolling" aria-hidden="true">Trem Bala (feat. Dallass)</div>
-            <div class="song scrolling" aria-hidden="true">Trem bala (feat. Dallass)</div>
+            <div class="song scrolling">Chosen (feat. Ty Dolla $ign)</div>
+            <div class="song scrolling" aria-hidden="true">Chosen (feat. Ty Dolla $ign)</div>
+            <div class="song scrolling" aria-hidden="true">Chosen (feat. Ty Dolla $ign)</div>
           </div>
           <div id='bars'><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div></div>
         </div>

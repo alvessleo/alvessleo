@@ -4,9 +4,9 @@
 
 -----
 
-<div align="center">
+<!--<div align="center">
   <h3><strong>WEB DEVELOPER</strong></h3>
-</div>
+</div>-->
 
 Atualmente sou um estudante, cursando Engenharia de Software na [Pontifícia Universidade Católica do Paraná](https://www.pucpr.br/) (PUCPR). Ainda no 4º periodo, mas já com a certeza da área que desejo me especializar.
 
@@ -21,9 +21,9 @@ Me chamo [Leonardo Fernandes Alves](https://www.instagram.com/_alvessleo/) e min
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/album/44qlncyg664uTj4nrjRwgW">
+  <a href="https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ">
     <img width=80px height="80px" src="https://github.com/alvessleo/alvessleo/blob/main/img/music-favorite.jpg">
-    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/spotify-favorite-track.svg">
+    <img src="">
   </a>
 </div>
 
