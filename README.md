@@ -2,6 +2,9 @@
   PORTIFOLIO LINKEDIN INSTAGRAM
 </h3>
 
+<div align="center">
+  <img src="https://github.com/alvessleo/alvessleo/blob/main/img/tipografia.svg">
+</div>
 
 <!--<div align="center">
   <h3><strong>WEB DEVELOPER</strong></h3>
