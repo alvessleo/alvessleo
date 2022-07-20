@@ -28,5 +28,14 @@
   Sou apaixonado por design, crio interfaces clean e minimalista. </p>
 </div>
 
+<br>
+<br>
+
+<div align="left">
+  <a href="https://github.com/alvessleo">
+    <img src="https://github.com/alvessleo/alvessleo/blob/main/img/email.svg">
+  </a>
+</div>
+
 
 
