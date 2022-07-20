@@ -9,7 +9,11 @@
   </a>
 </div>
 
-Atualmente realizando um curso de formação de talentos coordenado pela empresa visionnaire, juntamente com a PUCPR e o Bradesco. Focado em aprender JavaScript para aprender a criar interfaces interativas.
+<div align="left">
+  <p>Atualmente realizando um curso de formação de talentos coordenado pela empresa visionnaire, juntamente com a PUCPR e o Bradesco. Focado em aprender JavaScript para aprender a criar interfaces interativas.<br>
 
-Sou apaixonado por design, crio interfaces clean e minimalista. 
+  Sou apaixonado por design, crio interfaces clean e minimalista. </p>
+</div>
+
+
 
